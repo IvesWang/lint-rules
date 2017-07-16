@@ -1,3 +1,7 @@
+## Deprecated
+关于更多自定义lint的内容建议查看另一个库：
+https://github.com/IvesWang/CustomLint
+
 ## lint-rules
 
 用这些类和gradle配置文件创建一个java library，实现一些自定义的lint功能。
